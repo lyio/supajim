@@ -1,0 +1,5 @@
+starting up,
+3,
+bg.bmp*bg2.bmp*bg3.bmp,
+eop,
+0
